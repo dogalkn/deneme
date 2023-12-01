@@ -7,4 +7,5 @@ fun buildAquarium(){
 
 fun main(){
     buildAquarium()
+    println("ikinci")
 }
